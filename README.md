@@ -2,6 +2,32 @@
 
 <img width="1322" height="750" alt="image" src="https://github.com/user-attachments/assets/e4e81a76-a4d0-4e6b-a2c1-692b0f1c0280" />
 
+Notice that dairy is highlighted in red and the banner above is also highlighte in red.
+
+On load, this app is ready to produce a result.
+
+The click event on any food group inside one of the 9 squares will produce either a red banner, grenn banner or orange banner.
+
+Green means okay. Red significes do not combine. Orange significes another food group for selection.
+
+I wanted to show a result with the use of one mouse click.
+
+In this case, on a fresh start, a mouse click on dariy will produce a redbanner across the word dariy and will also prodeuce a red banner above with an explaination about the click result.
+
+In this case, the popular position among foood combination experts agree that a dairy product should always be consumed by itself and with nothing else.
+
+That is why a single click on the dairy returns the app to a non responsive further click event.
+
+At this point, the only mouse click event is with the start over button.
+
+I have designed this app to allow for only two clicks on any food selection.
+
+For example, 
+
+one click on fish will allow for a second click on low fat carbs.  The result in this case will be a green bannner significaing okay for the food combinations.
+
+one click on seeds will produce and orange banner on the seeds and will allow for a second click for something else.
+
 This is the first version of a food combining application using VUE as the design platform.  
 
 At the time of this design, I was a member of the VUE Meetups Group in Los Angeles.  
