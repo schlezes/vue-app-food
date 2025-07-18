@@ -12,9 +12,7 @@ In this case, on a fresh start, a mouse click on dairy will produce a red-banner
 
 With dairy, the popular position among food combination experts agree that a dairy product should always be consumed by itself and with nothing else.
 
-At this point, the single click on the dairy returns the app to a non responsive further click event.
-
-And, the is waiting for a click event on the start over button.
+At this point, the single click on the dairy returns the app to a non responsive further click event until a click event on the start over button.
 
 Going further,
 
