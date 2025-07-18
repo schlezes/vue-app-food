@@ -32,6 +32,9 @@ For example,
 
 one click on fish will allow for a second click on low fat carbs.  The result in this case will be a green bannner significaing okay for the food combinations.
 
+<img width="314" height="109" alt="image" src="https://github.com/user-attachments/assets/c5242362-5cf7-49a5-85f4-724a9f1eaaa6" />
+
+
 one click on seeds will produce and orange banner on the seeds and will allow for a second click for something else.
 
 This is the first version of a food combining application using VUE as the design platform.  
