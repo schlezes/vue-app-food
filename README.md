@@ -1,7 +1,6 @@
 # vue-app-food
 
-<img width="1319" height="721" alt="image" src="https://github.com/user-attachments/assets/3ea488b2-3fda-42bf-bf84-33d2c2984d35" />
-
+<img width="1322" height="750" alt="image" src="https://github.com/user-attachments/assets/e4e81a76-a4d0-4e6b-a2c1-692b0f1c0280" />
 
 This is the first version of a food combining application using VUE as the design platform.  
 
