@@ -16,7 +16,7 @@ At this point, the single click on the dairy returns the app to a non responsive
 
 Going further,
 
-The click event on any food group inside one of the 12 squares will produce either a red banner, green banner or orange banner.
+A click event on any food group inside one of the 12 squares will produce either a red banner, green banner or orange banner.
 
 Green means okay. Red signifies do not combine. Orange signifies another food group for selection is available.
 
