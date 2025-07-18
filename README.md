@@ -23,6 +23,7 @@ At this point, the only mouse click event is with the start over button.
 I have designed this app to allow for only two clicks on any food selection.
 
 For example,
+<img width="107" height="212" alt="image" src="https://github.com/user-attachments/assets/d8dab8da-f29d-4cf0-afac-748d9938d116" />
 
 <img width="1300" height="52" alt="image" src="https://github.com/user-attachments/assets/b375fdd1-d803-4e02-b660-36c532bd0a91" />
 
