@@ -6,23 +6,26 @@ Notice that dairy is highlighted in red and the banner above is also highlighte 
 
 On load, this app is ready to produce a result.
 
-The click event on any food group inside one of the 9 squares will produce either a red banner, grenn banner or orange banner.
-
-Green means okay. Red significes do not combine. Orange significes another food group for selection.
-
-I wanted to show a result with the use of one mouse click.
+At this point, a mouse click event will produce a result.
 
 In this case, on a fresh start, a mouse click on dariy will produce a redbanner across the word dariy and will also prodeuce a red banner above with an explaination about the click result.
 
-In this case, the popular position among foood combination experts agree that a dairy product should always be consumed by itself and with nothing else.
+With dairy, the popular position among foood combination experts agree that a dairy product should always be consumed by itself and with nothing else.
 
-That is why a single click on the dairy returns the app to a non responsive further click event.
+At this point, the single click on the dairy returns the app to a non responsive further click event.
 
-At this point, the only mouse click event is with the start over button.
+And, the is waiting for a click event on the start over button.
+
+Going further, 
+
+The click event on any food group inside one of the 12 squares will produce either a red banner, grenn banner or orange banner.
+
+Green means okay. Red significes do not combine. Orange significes another food group for selection is available.
 
 I have designed this app to allow for only two clicks on any food selection.
 
 For example,
+
 <img width="107" height="212" alt="image" src="https://github.com/user-attachments/assets/d8dab8da-f29d-4cf0-afac-748d9938d116" />
 
 <img width="1300" height="52" alt="image" src="https://github.com/user-attachments/assets/b375fdd1-d803-4e02-b660-36c532bd0a91" />
