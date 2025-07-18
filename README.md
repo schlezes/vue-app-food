@@ -32,12 +32,11 @@ one click on fish will allow for a second click on low starch veg.  The result i
 
 <img width="1300" height="52" alt="image" src="https://github.com/user-attachments/assets/b375fdd1-d803-4e02-b660-36c532bd0a91" />
 
-<img width="314" height="109" alt="image" src="https://github.com/user-attachments/assets/c5242362-5cf7-49a5-85f4-724a9f1eaaa6" />
-
 one click on seeds will produce and orange banner on the seeds and will allow for a second click for something else.
 
-<img width="1309" height="50" alt="image" src="https://github.com/user-attachments/assets/54d4d362-9ef7-49ee-9eac-bb98cb18abe3" />
+<img width="314" height="109" alt="image" src="https://github.com/user-attachments/assets/c5242362-5cf7-49a5-85f4-724a9f1eaaa6" />
 
+<img width="1309" height="50" alt="image" src="https://github.com/user-attachments/assets/54d4d362-9ef7-49ee-9eac-bb98cb18abe3" />
 
 This is the first version of a food combining application using VUE as the design platform.  
 
