@@ -1,3 +1,4 @@
+import Vue from 'vue';
 /*global
     console
     document
