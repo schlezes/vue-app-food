@@ -1,18 +1,19 @@
 {
-  "name": "vue",
+  "name": "vue-app-food",
   "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
   "dependencies": {
     "vue": "^2.6.10"
   },
   "devDependencies": {
-    "typescript": "^3.7.3"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "@vue/cli-service": "^5.0.0",
+    "gh-pages": "^6.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
 }
