@@ -15,7 +15,7 @@ import Vue from 'vue';
  * }
  */
 
-var Vue;
+//var Vue;
 var twoIds = [];
 var compare = [];
 var getId = function (ele) {
@@ -1416,9 +1416,11 @@ function to(evt) {
     location.reload();
     window.scrollTo(0, 0);
 }
-var listeners = function () {
-    getId("top").addEventListener("click", to, false);
-};
-window.onload = listeners;
+document.addEventListener("DOMContentLoaded", () => {
+  const topButton = document.getElementById("top");
+  if (topButton) {
+    topButton.addEventListener("click", to, false);
+  }
+});
 
 
