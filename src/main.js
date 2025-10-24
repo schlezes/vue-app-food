@@ -133,6 +133,7 @@ var listeners = function () {
 };
 var app = new Vue({
     el: "#app",
+    delimiters: ['${', '}'],
     data: {
         left: false,
         right: false,
@@ -1416,11 +1417,19 @@ function to(evt) {
     location.reload();
     window.scrollTo(0, 0);
 }
-document.addEventListener("DOMContentLoaded", () => {
-  const topButton = document.getElementById("top");
-  if (topButton) {
-    topButton.addEventListener("click", to, false);
-  }
+// document.addEventListener("DOMContentLoaded", () => {
+//   const topButton = document.getElementById("top");
+//   if (topButton) {
+//     topButton.addEventListener("click", to, false);
+//   }
+// });
+
+document.addEventListener('DOMContentLoaded', function () {
+  new Vue({
+    el: '#app',
+    delimiters: ['${', '}'],
+    data: { /* your data */ }
+  });
 });
 
 
